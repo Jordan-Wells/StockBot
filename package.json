@@ -1,0 +1,27 @@
+{
+  "name": "StockBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "StockBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jordan Wells",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "jquery": "^3.6.0",
+    "mysql2": "^2.2.5",
+    "node-fetch": "^2.6.1",
+    "pg": "^8.5.1",
+    "pgtools": "^0.1.1",
+    "puppeteer": "^8.0.0",
+    "robinhood": "^1.7.0",
+    "sequelize": "^6.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
